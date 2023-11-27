@@ -1,0 +1,971 @@
+ride_month,start_station_name,monthly_rides,total_rides_for_month,total_rides_for_month_top10,popularity_relative_top10,popularity_absolute
+2015-01,"Albert Gate, Hyde Park",1911,547905,32453,5.889,0.349
+2015-02,"Albert Gate, Hyde Park",2191,544239,33259,6.588,0.403
+2015-03,"Albert Gate, Hyde Park",3780,696397,45116,8.378,0.543
+2015-04,"Albert Gate, Hyde Park",7130,832313,60082,11.867,0.857
+2015-05,"Albert Gate, Hyde Park",6810,895402,60294,11.295,0.761
+2015-06,"Albert Gate, Hyde Park",7977,1033484,72885,10.945,0.772
+2015-07,"Albert Gate, Hyde Park",10191,1125879,81431,12.515,0.905
+2015-08,"Albert Gate, Hyde Park",10274,1033933,79328,12.951,0.994
+2015-09,"Albert Gate, Hyde Park",5932,897193,58736,10.099,0.661
+2015-10,"Albert Gate, Hyde Park",5074,878841,54662,9.282,0.577
+2015-11,"Albert Gate, Hyde Park",2280,679551,37022,6.159,0.336
+2015-12,"Albert Gate, Hyde Park",2997,603673,34087,8.792,0.496
+2016-01,"Albert Gate, Hyde Park",2083,582492,32926,6.326,0.358
+2016-02,"Albert Gate, Hyde Park",2362,593695,35354,6.681,0.398
+2016-03,"Albert Gate, Hyde Park",3735,659448,44038,8.481,0.566
+2016-04,"Albert Gate, Hyde Park",5315,772640,50428,10.54,0.688
+2016-05,"Albert Gate, Hyde Park",7665,1001878,66895,11.458,0.765
+2016-06,"Albert Gate, Hyde Park",5731,951412,61030,9.39,0.602
+2016-07,"Albert Gate, Hyde Park",9865,1173751,79279,12.443,0.84
+2016-08,"Albert Gate, Hyde Park",9280,1143776,75304,12.323,0.811
+2016-09,"Albert Gate, Hyde Park",6581,1041676,62324,10.559,0.632
+2016-10,"Albert Gate, Hyde Park",4725,935948,54214,8.715,0.505
+2016-11,"Albert Gate, Hyde Park",2552,704335,39017,6.541,0.362
+2016-12,"Albert Gate, Hyde Park",3676,651858,37296,9.856,0.564
+2017-01,"Albert Gate, Hyde Park",2195,632433,37101,5.916,0.347
+2017-02,"Albert Gate, Hyde Park",2522,612282,37196,6.78,0.412
+2017-03,"Albert Gate, Hyde Park",4176,812873,50089,8.337,0.514
+2017-04,"Albert Gate, Hyde Park",7730,908348,65034,11.886,0.851
+2017-05,"Albert Gate, Hyde Park",6053,982816,64385,9.401,0.616
+2017-06,"Albert Gate, Hyde Park",7255,1094355,68877,10.533,0.663
+2017-07,"Albert Gate, Hyde Park",8687,1133048,75494,11.507,0.767
+2017-08,"Albert Gate, Hyde Park",7432,982962,62311,11.927,0.756
+2017-09,"Albert Gate, Hyde Park",4814,913300,53870,8.936,0.527
+2017-10,"Albert Gate, Hyde Park",4607,951317,54416,8.466,0.484
+2017-11,"Albert Gate, Hyde Park",2945,781786,42079,6.999,0.377
+2017-12,"Albert Gate, Hyde Park",2403,526354,28550,8.417,0.457
+2018-01,"Albert Gate, Hyde Park",2318,637781,36048,6.43,0.363
+2018-02,"Albert Gate, Hyde Park",2316,568188,33384,6.937,0.408
+2018-03,"Albert Gate, Hyde Park",2560,595999,35038,7.306,0.43
+2018-04,"Albert Gate, Hyde Park",5693,813676,54396,10.466,0.7
+2018-05,"Albert Gate, Hyde Park",8263,1099385,72931,11.33,0.752
+2018-06,"Albert Gate, Hyde Park",7978,1168667,75858,10.517,0.683
+2018-07,"Albert Gate, Hyde Park",7346,1239205,75447,9.737,0.593
+2018-08,"Albert Gate, Hyde Park",8659,1046582,68419,12.656,0.827
+2018-09,"Albert Gate, Hyde Park",5568,998118,57791,9.635,0.558
+2018-10,"Albert Gate, Hyde Park",4428,967114,53544,8.27,0.458
+2018-11,"Albert Gate, Hyde Park",2651,728658,38813,6.83,0.364
+2018-12,"Albert Gate, Hyde Park",3264,578511,29710,10.986,0.564
+2019-01,"Albert Gate, Hyde Park",2758,679520,35849,7.693,0.406
+2019-02,"Albert Gate, Hyde Park",3138,691770,40062,7.833,0.454
+2019-03,"Albert Gate, Hyde Park",3807,784410,43415,8.769,0.485
+2019-04,"Albert Gate, Hyde Park",6418,880513,53705,11.95,0.729
+2019-05,"Albert Gate, Hyde Park",5509,995968,57537,9.575,0.553
+2019-06,"Albert Gate, Hyde Park",6843,993747,59403,11.52,0.689
+2019-07,"Albert Gate, Hyde Park",7166,1138703,64788,11.061,0.629
+2019-08,"Albert Gate, Hyde Park",7837,1041301,67749,11.568,0.753
+2019-09,"Albert Gate, Hyde Park",4521,955206,53923,8.384,0.473
+2019-10,"Albert Gate, Hyde Park",2552,841772,43517,5.864,0.303
+2019-11,"Albert Gate, Hyde Park",2110,721661,35549,5.935,0.292
+2019-12,"Albert Gate, Hyde Park",2474,585492,28703,8.619,0.423
+2020-01,"Albert Gate, Hyde Park",2376,702683,36653,6.482,0.338
+2020-02,"Albert Gate, Hyde Park",1814,634646,32544,5.574,0.286
+2020-03,"Albert Gate, Hyde Park",2206,547830,25839,8.537,0.403
+2020-04,"Albert Gate, Hyde Park",1907,582788,17997,10.596,0.327
+2020-05,"Albert Gate, Hyde Park",5669,1102153,45178,12.548,0.514
+2020-06,"Albert Gate, Hyde Park",5463,1139072,48027,11.375,0.48
+2020-07,"Albert Gate, Hyde Park",7034,1152311,56263,12.502,0.61
+2020-08,"Albert Gate, Hyde Park",6172,1136433,55463,11.128,0.543
+2020-09,"Albert Gate, Hyde Park",4905,1120897,47838,10.253,0.438
+2020-10,"Albert Gate, Hyde Park",2735,837070,31426,8.703,0.327
+2020-11,"Albert Gate, Hyde Park",3284,749763,32118,10.225,0.438
+2020-12,"Albert Gate, Hyde Park",2261,581394,22732,9.946,0.389
+2021-01,"Albert Gate, Hyde Park",1511,405015,16036,9.423,0.373
+2021-02,"Albert Gate, Hyde Park",2561,504154,23574,10.864,0.508
+2021-03,"Albert Gate, Hyde Park",4380,738522,38082,11.501,0.593
+2021-04,"Albert Gate, Hyde Park",5984,930934,47786,12.522,0.643
+2021-05,"Albert Gate, Hyde Park",4677,912059,39948,11.708,0.513
+2021-06,"Albert Gate, Hyde Park",6907,1169603,56623,12.198,0.591
+2021-07,"Albert Gate, Hyde Park",6141,1155434,55861,10.993,0.531
+2021-08,"Albert Gate, Hyde Park",6793,1098972,58786,11.555,0.618
+2021-09,"Albert Gate, Hyde Park",5522,1208914,55186,10.006,0.457
+2021-10,"Albert Gate, Hyde Park",4118,1099712,48001,8.579,0.374
+2021-11,"Albert Gate, Hyde Park",3240,936941,40491,8.002,0.346
+2021-12,"Albert Gate, Hyde Park",3126,661029,28047,11.146,0.473
+2022-01,"Albert Gate, Hyde Park",2532,741875,28863,8.772,0.341
+2022-02,"Albert Gate, Hyde Park",2415,743581,32372,7.46,0.325
+2022-03,"Albert Gate, Hyde Park",5380,1047369,51079,10.533,0.514
+2022-04,"Albert Gate, Hyde Park",7025,1022467,51966,13.518,0.687
+2022-05,"Albert Gate, Hyde Park",6683,1190590,57759,11.57,0.561
+2022-06,"Albert Gate, Hyde Park",6880,1268701,60915,11.294,0.542
+2022-07,"Albert Gate, Hyde Park",5870,1303376,65556,8.954,0.45
+2022-08,"Albert Gate, Hyde Park",7703,1249038,63281,12.173,0.617
+2022-09,"Albert Gate, Hyde Park",1657,609978,25171,6.583,0.272
+2022-10,"Albert Gate, Hyde Park",3178,835240,32755,9.702,0.38
+2022-11,"Albert Gate, Hyde Park",1812,593444,22569,8.029,0.305
+2022-12,"Albert Gate, Hyde Park",1417,421860,15269,9.28,0.336
+2023-01,"Albert Gate, Hyde Park",657,233478,8039,8.173,0.281
+2015-01,"Belgrove Street , King's Cross",6169,547905,32453,19.009,1.126
+2015-02,"Belgrove Street , King's Cross",6074,544239,33259,18.263,1.116
+2015-03,"Belgrove Street , King's Cross",7454,696397,45116,16.522,1.07
+2015-04,"Belgrove Street , King's Cross",7272,832313,60082,12.103,0.874
+2015-05,"Belgrove Street , King's Cross",7171,895402,60294,11.893,0.801
+2015-06,"Belgrove Street , King's Cross",8532,1033484,72885,11.706,0.826
+2015-07,"Belgrove Street , King's Cross",9949,1125879,81431,12.218,0.884
+2015-08,"Belgrove Street , King's Cross",8630,1033933,79328,10.879,0.835
+2015-09,"Belgrove Street , King's Cross",8355,897193,58736,14.225,0.931
+2015-10,"Belgrove Street , King's Cross",8380,878841,54662,15.331,0.954
+2015-11,"Belgrove Street , King's Cross",7486,679551,37022,20.22,1.102
+2015-12,"Belgrove Street , King's Cross",6060,603673,34087,17.778,1.004
+2016-01,"Belgrove Street , King's Cross",6931,582492,32926,21.05,1.19
+2016-02,"Belgrove Street , King's Cross",7129,593695,35354,20.165,1.201
+2016-03,"Belgrove Street , King's Cross",8051,659448,44038,18.282,1.221
+2016-04,"Belgrove Street , King's Cross",8325,772640,50428,16.509,1.077
+2016-05,"Belgrove Street , King's Cross",8876,1001878,66895,13.269,0.886
+2016-06,"Belgrove Street , King's Cross",8896,951412,61030,14.576,0.935
+2016-07,"Belgrove Street , King's Cross",9251,1173751,79279,11.669,0.788
+2016-08,"Belgrove Street , King's Cross",8970,1143776,75304,11.912,0.784
+2016-09,"Belgrove Street , King's Cross",9139,1041676,62324,14.664,0.877
+2016-10,"Belgrove Street , King's Cross",8819,935948,54214,16.267,0.942
+2016-11,"Belgrove Street , King's Cross",8292,704335,39017,21.252,1.177
+2016-12,"Belgrove Street , King's Cross",6594,651858,37296,17.68,1.012
+2017-01,"Belgrove Street , King's Cross",7711,632433,37101,20.784,1.219
+2017-02,"Belgrove Street , King's Cross",7181,612282,37196,19.306,1.173
+2017-03,"Belgrove Street , King's Cross",8696,812873,50089,17.361,1.07
+2017-04,"Belgrove Street , King's Cross",7627,908348,65034,11.728,0.84
+2017-05,"Belgrove Street , King's Cross",8851,982816,64385,13.747,0.901
+2017-06,"Belgrove Street , King's Cross",9304,1094355,68877,13.508,0.85
+2017-07,"Belgrove Street , King's Cross",9295,1133048,75494,12.312,0.82
+2017-08,"Belgrove Street , King's Cross",7955,982962,62311,12.767,0.809
+2017-09,"Belgrove Street , King's Cross",8422,913300,53870,15.634,0.922
+2017-10,"Belgrove Street , King's Cross",8835,951317,54416,16.236,0.929
+2017-11,"Belgrove Street , King's Cross",8343,781786,42079,19.827,1.067
+2017-12,"Belgrove Street , King's Cross",4940,526354,28550,17.303,0.939
+2018-01,"Belgrove Street , King's Cross",7437,637781,36048,20.631,1.166
+2018-02,"Belgrove Street , King's Cross",6277,568188,33384,18.802,1.105
+2018-03,"Belgrove Street , King's Cross",6571,595999,35038,18.754,1.103
+2018-04,"Belgrove Street , King's Cross",6907,813676,54396,12.698,0.849
+2018-05,"Belgrove Street , King's Cross",8642,1099385,72931,11.85,0.786
+2018-06,"Belgrove Street , King's Cross",8800,1168667,75858,11.601,0.753
+2018-07,"Belgrove Street , King's Cross",9394,1239205,75447,12.451,0.758
+2018-08,"Belgrove Street , King's Cross",7856,1046582,68419,11.482,0.751
+2018-09,"Belgrove Street , King's Cross",8292,998118,57791,14.348,0.831
+2018-10,"Belgrove Street , King's Cross",8961,967114,53544,16.736,0.927
+2018-11,"Belgrove Street , King's Cross",7489,728658,38813,19.295,1.028
+2018-12,"Belgrove Street , King's Cross",5131,578511,29710,17.27,0.887
+2019-01,"Belgrove Street , King's Cross",6803,679520,35849,18.977,1.001
+2019-02,"Belgrove Street , King's Cross",6367,691770,40062,15.893,0.92
+2019-03,"Belgrove Street , King's Cross",7296,784410,43415,16.805,0.93
+2019-04,"Belgrove Street , King's Cross",7062,880513,53705,13.15,0.802
+2019-05,"Belgrove Street , King's Cross",7812,995968,57537,13.577,0.784
+2019-06,"Belgrove Street , King's Cross",7666,993747,59403,12.905,0.771
+2019-07,"Belgrove Street , King's Cross",8244,1138703,64788,12.725,0.724
+2019-08,"Belgrove Street , King's Cross",7163,1041301,67749,10.573,0.688
+2019-09,"Belgrove Street , King's Cross",7483,955206,53923,13.877,0.783
+2019-10,"Belgrove Street , King's Cross",7487,841772,43517,17.205,0.889
+2019-11,"Belgrove Street , King's Cross",6584,721661,35549,18.521,0.912
+2019-12,"Belgrove Street , King's Cross",4611,585492,28703,16.065,0.788
+2020-01,"Belgrove Street , King's Cross",6452,702683,36653,17.603,0.918
+2020-02,"Belgrove Street , King's Cross",6003,634646,32544,18.446,0.946
+2020-03,"Belgrove Street , King's Cross",3911,547830,25839,15.136,0.714
+2020-04,"Belgrove Street , King's Cross",974,582788,17997,5.412,0.167
+2020-05,"Belgrove Street , King's Cross",1918,1102153,45178,4.245,0.174
+2020-06,"Belgrove Street , King's Cross",2593,1139072,48027,5.399,0.228
+2020-07,"Belgrove Street , King's Cross",3216,1152311,56263,5.716,0.279
+2020-08,"Belgrove Street , King's Cross",3568,1136433,55463,6.433,0.314
+2020-09,"Belgrove Street , King's Cross",3538,1120897,47838,7.396,0.316
+2020-10,"Belgrove Street , King's Cross",2692,837070,31426,8.566,0.322
+2020-11,"Belgrove Street , King's Cross",1997,749763,32118,6.218,0.266
+2020-12,"Belgrove Street , King's Cross",1612,581394,22732,7.091,0.277
+2021-01,"Belgrove Street , King's Cross",885,405015,16036,5.519,0.219
+2021-02,"Belgrove Street , King's Cross",1179,504154,23574,5.001,0.234
+2021-03,"Belgrove Street , King's Cross",1689,738522,38082,4.435,0.229
+2021-04,"Belgrove Street , King's Cross",2245,930934,47786,4.698,0.241
+2021-05,"Belgrove Street , King's Cross",2368,912059,39948,5.928,0.26
+2021-06,"Belgrove Street , King's Cross",3281,1169603,56623,5.794,0.281
+2021-07,"Belgrove Street , King's Cross",3826,1155434,55861,6.849,0.331
+2021-08,"Belgrove Street , King's Cross",3978,1098972,58786,6.767,0.362
+2021-09,"Belgrove Street , King's Cross",5020,1208914,55186,9.097,0.415
+2021-10,"Belgrove Street , King's Cross",5172,1099712,48001,10.775,0.47
+2021-11,"Belgrove Street , King's Cross",5372,936941,40491,13.267,0.573
+2021-12,"Belgrove Street , King's Cross",3018,661029,28047,10.761,0.457
+2022-01,"Belgrove Street , King's Cross",3067,741875,28863,10.626,0.413
+2022-02,"Belgrove Street , King's Cross",3727,743581,32372,11.513,0.501
+2022-03,"Belgrove Street , King's Cross",5885,1047369,51079,11.521,0.562
+2022-04,"Belgrove Street , King's Cross",4765,1022467,51966,9.169,0.466
+2022-05,"Belgrove Street , King's Cross",5571,1190590,57759,9.645,0.468
+2022-06,"Belgrove Street , King's Cross",5646,1268701,60915,9.269,0.445
+2022-07,"Belgrove Street , King's Cross",5263,1303376,65556,8.028,0.404
+2022-08,"Belgrove Street , King's Cross",5457,1249038,63281,8.623,0.437
+2022-09,"Belgrove Street , King's Cross",3081,609978,25171,12.24,0.505
+2022-10,"Belgrove Street , King's Cross",3663,835240,32755,11.183,0.439
+2022-11,"Belgrove Street , King's Cross",3106,593444,22569,13.762,0.523
+2022-12,"Belgrove Street , King's Cross",1972,421860,15269,12.915,0.467
+2023-01,"Belgrove Street , King's Cross",1055,233478,8039,13.124,0.452
+2015-01,"Black Lion Gate, Kensington Gardens",2195,547905,32453,6.764,0.401
+2015-02,"Black Lion Gate, Kensington Gardens",2805,544239,33259,8.434,0.515
+2015-03,"Black Lion Gate, Kensington Gardens",4282,696397,45116,9.491,0.615
+2015-04,"Black Lion Gate, Kensington Gardens",7562,832313,60082,12.586,0.909
+2015-05,"Black Lion Gate, Kensington Gardens",8208,895402,60294,13.613,0.917
+2015-06,"Black Lion Gate, Kensington Gardens",9298,1033484,72885,12.757,0.9
+2015-07,"Black Lion Gate, Kensington Gardens",10298,1125879,81431,12.646,0.915
+2015-08,"Black Lion Gate, Kensington Gardens",10439,1033933,79328,13.159,1.01
+2015-09,"Black Lion Gate, Kensington Gardens",6395,897193,58736,10.888,0.713
+2015-10,"Black Lion Gate, Kensington Gardens",5592,878841,54662,10.23,0.636
+2015-11,"Black Lion Gate, Kensington Gardens",2432,679551,37022,6.569,0.358
+2015-12,"Black Lion Gate, Kensington Gardens",2198,603673,34087,6.448,0.364
+2016-01,"Black Lion Gate, Kensington Gardens",1899,582492,32926,5.767,0.326
+2016-02,"Black Lion Gate, Kensington Gardens",2294,593695,35354,6.489,0.386
+2016-03,"Black Lion Gate, Kensington Gardens",4052,659448,44038,9.201,0.614
+2016-04,"Black Lion Gate, Kensington Gardens",4886,772640,50428,9.689,0.632
+2016-05,"Black Lion Gate, Kensington Gardens",8348,1001878,66895,12.479,0.833
+2016-06,"Black Lion Gate, Kensington Gardens",7399,951412,61030,12.124,0.778
+2016-07,"Black Lion Gate, Kensington Gardens",10203,1173751,79279,12.87,0.869
+2016-08,"Black Lion Gate, Kensington Gardens",7570,1143776,75304,10.053,0.662
+2016-09,"Black Lion Gate, Kensington Gardens",6300,1041676,62324,10.108,0.605
+2016-10,"Black Lion Gate, Kensington Gardens",5237,935948,54214,9.66,0.56
+2016-11,"Black Lion Gate, Kensington Gardens",2067,704335,39017,5.298,0.293
+2016-12,"Black Lion Gate, Kensington Gardens",2716,651858,37296,7.282,0.417
+2017-01,"Black Lion Gate, Kensington Gardens",2295,632433,37101,6.186,0.363
+2017-02,"Black Lion Gate, Kensington Gardens",2558,612282,37196,6.877,0.418
+2017-03,"Black Lion Gate, Kensington Gardens",4140,812873,50089,8.265,0.509
+2017-04,"Black Lion Gate, Kensington Gardens",7564,908348,65034,11.631,0.833
+2017-05,"Black Lion Gate, Kensington Gardens",7407,982816,64385,11.504,0.754
+2017-06,"Black Lion Gate, Kensington Gardens",8210,1094355,68877,11.92,0.75
+2017-07,"Black Lion Gate, Kensington Gardens",9310,1133048,75494,12.332,0.822
+2017-08,"Black Lion Gate, Kensington Gardens",6119,982962,62311,9.82,0.623
+2017-09,"Black Lion Gate, Kensington Gardens",5449,913300,53870,10.115,0.597
+2017-10,"Black Lion Gate, Kensington Gardens",4826,951317,54416,8.869,0.507
+2017-11,"Black Lion Gate, Kensington Gardens",2513,781786,42079,5.972,0.321
+2017-12,"Black Lion Gate, Kensington Gardens",1927,526354,28550,6.75,0.366
+2018-01,"Black Lion Gate, Kensington Gardens",2069,637781,36048,5.74,0.324
+2018-02,"Black Lion Gate, Kensington Gardens",2450,568188,33384,7.339,0.431
+2018-03,"Black Lion Gate, Kensington Gardens",2800,595999,35038,7.991,0.47
+2018-04,"Black Lion Gate, Kensington Gardens",5741,813676,54396,10.554,0.706
+2018-05,"Black Lion Gate, Kensington Gardens",9012,1099385,72931,12.357,0.82
+2018-06,"Black Lion Gate, Kensington Gardens",9502,1168667,75858,12.526,0.813
+2018-07,"Black Lion Gate, Kensington Gardens",8632,1239205,75447,11.441,0.697
+2018-08,"Black Lion Gate, Kensington Gardens",5822,1046582,68419,8.509,0.556
+2018-09,"Black Lion Gate, Kensington Gardens",6094,998118,57791,10.545,0.611
+2018-10,"Black Lion Gate, Kensington Gardens",4727,967114,53544,8.828,0.489
+2018-11,"Black Lion Gate, Kensington Gardens",2277,728658,38813,5.867,0.312
+2018-12,"Black Lion Gate, Kensington Gardens",1922,578511,29710,6.469,0.332
+2019-01,"Black Lion Gate, Kensington Gardens",2258,679520,35849,6.299,0.332
+2019-02,"Black Lion Gate, Kensington Gardens",3453,691770,40062,8.619,0.499
+2019-03,"Black Lion Gate, Kensington Gardens",3627,784410,43415,8.354,0.462
+2019-04,"Black Lion Gate, Kensington Gardens",5933,880513,53705,11.047,0.674
+2019-05,"Black Lion Gate, Kensington Gardens",6176,995968,57537,10.734,0.62
+2019-06,"Black Lion Gate, Kensington Gardens",7140,993747,59403,12.02,0.718
+2019-07,"Black Lion Gate, Kensington Gardens",5967,1138703,64788,9.21,0.524
+2019-08,"Black Lion Gate, Kensington Gardens",7108,1041301,67749,10.492,0.683
+2019-09,"Black Lion Gate, Kensington Gardens",5313,955206,53923,9.853,0.556
+2019-10,"Black Lion Gate, Kensington Gardens",3326,841772,43517,7.643,0.395
+2019-11,"Black Lion Gate, Kensington Gardens",2043,721661,35549,5.747,0.283
+2019-12,"Black Lion Gate, Kensington Gardens",1762,585492,28703,6.139,0.301
+2020-01,"Black Lion Gate, Kensington Gardens",1907,702683,36653,5.203,0.271
+2020-02,"Black Lion Gate, Kensington Gardens",1679,634646,32544,5.159,0.265
+2020-03,"Black Lion Gate, Kensington Gardens",2263,547830,25839,8.758,0.413
+2020-04,"Black Lion Gate, Kensington Gardens",2538,582788,17997,14.102,0.435
+2020-05,"Black Lion Gate, Kensington Gardens",6566,1102153,45178,14.534,0.596
+2020-06,"Black Lion Gate, Kensington Gardens",6388,1139072,48027,13.301,0.561
+2020-07,"Black Lion Gate, Kensington Gardens",6769,1152311,56263,12.031,0.587
+2020-08,"Black Lion Gate, Kensington Gardens",6054,1136433,55463,10.915,0.533
+2020-09,"Black Lion Gate, Kensington Gardens",5544,1120897,47838,11.589,0.495
+2020-10,"Black Lion Gate, Kensington Gardens",3894,837070,31426,12.391,0.465
+2020-11,"Black Lion Gate, Kensington Gardens",3656,749763,32118,11.383,0.488
+2020-12,"Black Lion Gate, Kensington Gardens",2146,581394,22732,9.44,0.369
+2021-01,"Black Lion Gate, Kensington Gardens",1849,405015,16036,11.53,0.457
+2021-02,"Black Lion Gate, Kensington Gardens",3006,504154,23574,12.751,0.596
+2021-03,"Black Lion Gate, Kensington Gardens",4668,738522,38082,12.258,0.632
+2021-04,"Black Lion Gate, Kensington Gardens",5152,930934,47786,10.781,0.553
+2021-05,"Black Lion Gate, Kensington Gardens",4580,912059,39948,11.465,0.502
+2021-06,"Black Lion Gate, Kensington Gardens",6104,1169603,56623,10.78,0.522
+2021-07,"Black Lion Gate, Kensington Gardens",6213,1155434,55861,11.122,0.538
+2021-08,"Black Lion Gate, Kensington Gardens",6841,1098972,58786,11.637,0.622
+2021-09,"Black Lion Gate, Kensington Gardens",5652,1208914,55186,10.242,0.468
+2021-10,"Black Lion Gate, Kensington Gardens",4444,1099712,48001,9.258,0.404
+2021-11,"Black Lion Gate, Kensington Gardens",2148,936941,40491,5.305,0.229
+2021-12,"Black Lion Gate, Kensington Gardens",1730,661029,28047,6.168,0.262
+2022-01,"Black Lion Gate, Kensington Gardens",2081,741875,28863,7.21,0.281
+2022-02,"Black Lion Gate, Kensington Gardens",2416,743581,32372,7.463,0.325
+2022-03,"Black Lion Gate, Kensington Gardens",3545,1047369,51079,6.94,0.338
+2022-04,"Black Lion Gate, Kensington Gardens",4240,1022467,51966,8.159,0.415
+2022-05,"Black Lion Gate, Kensington Gardens",5933,1190590,57759,10.272,0.498
+2022-06,"Black Lion Gate, Kensington Gardens",6178,1268701,60915,10.142,0.487
+2022-07,"Black Lion Gate, Kensington Gardens",6673,1303376,65556,10.179,0.512
+2022-08,"Black Lion Gate, Kensington Gardens",6984,1249038,63281,11.036,0.559
+2022-09,"Black Lion Gate, Kensington Gardens",2033,609978,25171,8.077,0.333
+2022-10,"Black Lion Gate, Kensington Gardens",2946,835240,32755,8.994,0.353
+2022-11,"Black Lion Gate, Kensington Gardens",1248,593444,22569,5.53,0.21
+2022-12,"Black Lion Gate, Kensington Gardens",832,421860,15269,5.449,0.197
+2023-01,"Black Lion Gate, Kensington Gardens",669,233478,8039,8.322,0.287
+2015-01,"Hop Exchange, The Borough",2828,547905,32453,8.714,0.516
+2015-02,"Hop Exchange, The Borough",2678,544239,33259,8.052,0.492
+2015-03,"Hop Exchange, The Borough",3599,696397,45116,7.977,0.517
+2015-04,"Hop Exchange, The Borough",4015,832313,60082,6.683,0.482
+2015-05,"Hop Exchange, The Borough",4324,895402,60294,7.172,0.483
+2015-06,"Hop Exchange, The Borough",4832,1033484,72885,6.63,0.468
+2015-07,"Hop Exchange, The Borough",5691,1125879,81431,6.989,0.505
+2015-08,"Hop Exchange, The Borough",5257,1033933,79328,6.627,0.508
+2015-09,"Hop Exchange, The Borough",3726,897193,58736,6.344,0.415
+2015-10,"Hop Exchange, The Borough",4480,878841,54662,8.196,0.51
+2015-11,"Hop Exchange, The Borough",2923,679551,37022,7.895,0.43
+2015-12,"Hop Exchange, The Borough",2958,603673,34087,8.678,0.49
+2016-01,"Hop Exchange, The Borough",2706,582492,32926,8.218,0.465
+2016-02,"Hop Exchange, The Borough",2790,593695,35354,7.892,0.47
+2016-03,"Hop Exchange, The Borough",3006,659448,44038,6.826,0.456
+2016-04,"Hop Exchange, The Borough",3493,772640,50428,6.927,0.452
+2016-05,"Hop Exchange, The Borough",4606,1001878,66895,6.885,0.46
+2016-06,"Hop Exchange, The Borough",4500,951412,61030,7.373,0.473
+2016-07,"Hop Exchange, The Borough",5700,1173751,79279,7.19,0.486
+2016-08,"Hop Exchange, The Borough",5627,1143776,75304,7.472,0.492
+2016-09,"Hop Exchange, The Borough",5023,1041676,62324,8.059,0.482
+2016-10,"Hop Exchange, The Borough",4579,935948,54214,8.446,0.489
+2016-11,"Hop Exchange, The Borough",3221,704335,39017,8.255,0.457
+2016-12,"Hop Exchange, The Borough",3110,651858,37296,8.339,0.477
+2017-01,"Hop Exchange, The Borough",2729,632433,37101,7.356,0.432
+2017-02,"Hop Exchange, The Borough",2859,612282,37196,7.686,0.467
+2017-03,"Hop Exchange, The Borough",3983,812873,50089,7.952,0.49
+2017-04,"Hop Exchange, The Borough",4160,908348,65034,6.397,0.458
+2017-05,"Hop Exchange, The Borough",4595,982816,64385,7.137,0.468
+2017-06,"Hop Exchange, The Borough",4143,1094355,68877,6.015,0.379
+2017-07,"Hop Exchange, The Borough",5264,1133048,75494,6.973,0.465
+2017-08,"Hop Exchange, The Borough",4553,982962,62311,7.307,0.463
+2017-09,"Hop Exchange, The Borough",4159,913300,53870,7.72,0.455
+2017-10,"Hop Exchange, The Borough",4627,951317,54416,8.503,0.486
+2017-11,"Hop Exchange, The Borough",3702,781786,42079,8.798,0.474
+2017-12,"Hop Exchange, The Borough",2517,526354,28550,8.816,0.478
+2018-01,"Hop Exchange, The Borough",3107,637781,36048,8.619,0.487
+2018-02,"Hop Exchange, The Borough",2526,568188,33384,7.566,0.445
+2018-03,"Hop Exchange, The Borough",2983,595999,35038,8.514,0.501
+2018-04,"Hop Exchange, The Borough",3968,813676,54396,7.295,0.488
+2018-05,"Hop Exchange, The Borough",5259,1099385,72931,7.211,0.478
+2018-06,"Hop Exchange, The Borough",6110,1168667,75858,8.055,0.523
+2018-07,"Hop Exchange, The Borough",6335,1239205,75447,8.397,0.511
+2018-08,"Hop Exchange, The Borough",5212,1046582,68419,7.618,0.498
+2018-09,"Hop Exchange, The Borough",4793,998118,57791,8.294,0.48
+2018-10,"Hop Exchange, The Borough",4651,967114,53544,8.686,0.481
+2018-11,"Hop Exchange, The Borough",3542,728658,38813,9.126,0.486
+2018-12,"Hop Exchange, The Borough",2818,578511,29710,9.485,0.487
+2019-01,"Hop Exchange, The Borough",3018,679520,35849,8.419,0.444
+2019-02,"Hop Exchange, The Borough",3126,691770,40062,7.803,0.452
+2019-03,"Hop Exchange, The Borough",3677,784410,43415,8.469,0.469
+2019-04,"Hop Exchange, The Borough",3728,880513,53705,6.942,0.423
+2019-05,"Hop Exchange, The Borough",4403,995968,57537,7.652,0.442
+2019-06,"Hop Exchange, The Borough",4312,993747,59403,7.259,0.434
+2019-07,"Hop Exchange, The Borough",5375,1138703,64788,8.296,0.472
+2019-08,"Hop Exchange, The Borough",5062,1041301,67749,7.472,0.486
+2019-09,"Hop Exchange, The Borough",4426,955206,53923,8.208,0.463
+2019-10,"Hop Exchange, The Borough",3837,841772,43517,8.817,0.456
+2019-11,"Hop Exchange, The Borough",3065,721661,35549,8.622,0.425
+2019-12,"Hop Exchange, The Borough",2668,585492,28703,9.295,0.456
+2020-01,"Hop Exchange, The Borough",3051,702683,36653,8.324,0.434
+2020-02,"Hop Exchange, The Borough",2752,634646,32544,8.456,0.434
+2020-03,"Hop Exchange, The Borough",1956,547830,25839,7.57,0.357
+2020-04,"Hop Exchange, The Borough",2330,582788,17997,12.947,0.4
+2020-05,"Hop Exchange, The Borough",4530,1102153,45178,10.027,0.411
+2020-06,"Hop Exchange, The Borough",4990,1139072,48027,10.39,0.438
+2020-07,"Hop Exchange, The Borough",5261,1152311,56263,9.351,0.457
+2020-08,"Hop Exchange, The Borough",5471,1136433,55463,9.864,0.481
+2020-09,"Hop Exchange, The Borough",4733,1120897,47838,9.894,0.422
+2020-10,"Hop Exchange, The Borough",3487,837070,31426,11.096,0.417
+2020-11,"Hop Exchange, The Borough",3528,749763,32118,10.984,0.471
+2020-12,"Hop Exchange, The Borough",3028,581394,22732,13.32,0.521
+2021-01,"Hop Exchange, The Borough",1947,405015,16036,12.141,0.481
+2021-02,"Hop Exchange, The Borough",2491,504154,23574,10.567,0.494
+2021-03,"Hop Exchange, The Borough",3484,738522,38082,9.149,0.472
+2021-04,"Hop Exchange, The Borough",4534,930934,47786,9.488,0.487
+2021-05,"Hop Exchange, The Borough",4081,912059,39948,10.216,0.447
+2021-06,"Hop Exchange, The Borough",5402,1169603,56623,9.54,0.462
+2021-07,"Hop Exchange, The Borough",5449,1155434,55861,9.755,0.472
+2021-08,"Hop Exchange, The Borough",5267,1098972,58786,8.96,0.479
+2021-09,"Hop Exchange, The Borough",5445,1208914,55186,9.867,0.45
+2021-10,"Hop Exchange, The Borough",5045,1099712,48001,10.51,0.459
+2021-11,"Hop Exchange, The Borough",4004,936941,40491,9.889,0.427
+2021-12,"Hop Exchange, The Borough",3188,661029,28047,11.367,0.482
+2022-01,"Hop Exchange, The Borough",3284,741875,28863,11.378,0.443
+2022-02,"Hop Exchange, The Borough",3276,743581,32372,10.12,0.441
+2022-03,"Hop Exchange, The Borough",4718,1047369,51079,9.237,0.45
+2022-04,"Hop Exchange, The Borough",4759,1022467,51966,9.158,0.465
+2022-05,"Hop Exchange, The Borough",5238,1190590,57759,9.069,0.44
+2022-06,"Hop Exchange, The Borough",5218,1268701,60915,8.566,0.411
+2022-07,"Hop Exchange, The Borough",6120,1303376,65556,9.336,0.47
+2022-08,"Hop Exchange, The Borough",5648,1249038,63281,8.925,0.452
+2022-09,"Hop Exchange, The Borough",2589,609978,25171,10.286,0.424
+2022-10,"Hop Exchange, The Borough",3480,835240,32755,10.624,0.417
+2022-11,"Hop Exchange, The Borough",2460,593444,22569,10.9,0.415
+2022-12,"Hop Exchange, The Borough",1813,421860,15269,11.874,0.43
+2023-01,"Hop Exchange, The Borough",905,233478,8039,11.258,0.388
+2015-01,"Hyde Park Corner, Hyde Park",3036,547905,32453,9.355,0.554
+2015-02,"Hyde Park Corner, Hyde Park",3709,544239,33259,11.152,0.682
+2015-03,"Hyde Park Corner, Hyde Park",5560,696397,45116,12.324,0.798
+2015-04,"Hyde Park Corner, Hyde Park",9869,832313,60082,16.426,1.186
+2015-05,"Hyde Park Corner, Hyde Park",9709,895402,60294,16.103,1.084
+2015-06,"Hyde Park Corner, Hyde Park",12818,1033484,72885,17.587,1.24
+2015-07,"Hyde Park Corner, Hyde Park",13248,1125879,81431,16.269,1.177
+2015-08,"Hyde Park Corner, Hyde Park",14486,1033933,79328,18.261,1.401
+2015-09,"Hyde Park Corner, Hyde Park",8587,897193,58736,14.62,0.957
+2015-10,"Hyde Park Corner, Hyde Park",7331,878841,54662,13.412,0.834
+2015-11,"Hyde Park Corner, Hyde Park",3560,679551,37022,9.616,0.524
+2015-12,"Hyde Park Corner, Hyde Park",3827,603673,34087,11.227,0.634
+2016-01,"Hyde Park Corner, Hyde Park",2951,582492,32926,8.963,0.507
+2016-02,"Hyde Park Corner, Hyde Park",3322,593695,35354,9.396,0.56
+2016-03,"Hyde Park Corner, Hyde Park",5015,659448,44038,11.388,0.76
+2016-04,"Hyde Park Corner, Hyde Park",7091,772640,50428,14.062,0.918
+2016-05,"Hyde Park Corner, Hyde Park",10569,1001878,66895,15.799,1.055
+2016-06,"Hyde Park Corner, Hyde Park",8205,951412,61030,13.444,0.862
+2016-07,"Hyde Park Corner, Hyde Park",10164,1173751,79279,12.821,0.866
+2016-08,"Hyde Park Corner, Hyde Park",11400,1143776,75304,15.139,0.997
+2016-09,"Hyde Park Corner, Hyde Park",8229,1041676,62324,13.204,0.79
+2016-10,"Hyde Park Corner, Hyde Park",6171,935948,54214,11.383,0.659
+2016-11,"Hyde Park Corner, Hyde Park",3286,704335,39017,8.422,0.467
+2016-12,"Hyde Park Corner, Hyde Park",3954,651858,37296,10.602,0.607
+2017-01,"Hyde Park Corner, Hyde Park",3360,632433,37101,9.056,0.531
+2017-02,"Hyde Park Corner, Hyde Park",3970,612282,37196,10.673,0.648
+2017-03,"Hyde Park Corner, Hyde Park",5704,812873,50089,11.388,0.702
+2017-04,"Hyde Park Corner, Hyde Park",11355,908348,65034,17.46,1.25
+2017-05,"Hyde Park Corner, Hyde Park",10525,982816,64385,16.347,1.071
+2017-06,"Hyde Park Corner, Hyde Park",10301,1094355,68877,14.956,0.941
+2017-07,"Hyde Park Corner, Hyde Park",11772,1133048,75494,15.593,1.039
+2017-08,"Hyde Park Corner, Hyde Park",10552,982962,62311,16.934,1.073
+2017-09,"Hyde Park Corner, Hyde Park",7438,913300,53870,13.807,0.814
+2017-10,"Hyde Park Corner, Hyde Park",6584,951317,54416,12.099,0.692
+2017-11,"Hyde Park Corner, Hyde Park",3745,781786,42079,8.9,0.479
+2017-12,"Hyde Park Corner, Hyde Park",3094,526354,28550,10.837,0.588
+2018-01,"Hyde Park Corner, Hyde Park",2887,637781,36048,8.009,0.453
+2018-02,"Hyde Park Corner, Hyde Park",3120,568188,33384,9.346,0.549
+2018-03,"Hyde Park Corner, Hyde Park",3225,595999,35038,9.204,0.541
+2018-04,"Hyde Park Corner, Hyde Park",8299,813676,54396,15.257,1.02
+2018-05,"Hyde Park Corner, Hyde Park",11700,1099385,72931,16.043,1.064
+2018-06,"Hyde Park Corner, Hyde Park",12567,1168667,75858,16.566,1.075
+2018-07,"Hyde Park Corner, Hyde Park",10405,1239205,75447,13.791,0.84
+2018-08,"Hyde Park Corner, Hyde Park",11759,1046582,68419,17.187,1.124
+2018-09,"Hyde Park Corner, Hyde Park",7703,998118,57791,13.329,0.772
+2018-10,"Hyde Park Corner, Hyde Park",6256,967114,53544,11.684,0.647
+2018-11,"Hyde Park Corner, Hyde Park",3458,728658,38813,8.909,0.475
+2018-12,"Hyde Park Corner, Hyde Park",3389,578511,29710,11.407,0.586
+2019-01,"Hyde Park Corner, Hyde Park",2407,679520,35849,6.714,0.354
+2019-02,"Hyde Park Corner, Hyde Park",4506,691770,40062,11.248,0.651
+2019-03,"Hyde Park Corner, Hyde Park",4285,784410,43415,9.87,0.546
+2019-04,"Hyde Park Corner, Hyde Park",7813,880513,53705,14.548,0.887
+2019-05,"Hyde Park Corner, Hyde Park",8680,995968,57537,15.086,0.872
+2019-06,"Hyde Park Corner, Hyde Park",8518,993747,59403,14.339,0.857
+2019-07,"Hyde Park Corner, Hyde Park",7677,1138703,64788,11.849,0.674
+2019-08,"Hyde Park Corner, Hyde Park",10837,1041301,67749,15.996,1.041
+2019-09,"Hyde Park Corner, Hyde Park",7522,955206,53923,13.95,0.787
+2019-10,"Hyde Park Corner, Hyde Park",3947,841772,43517,9.07,0.469
+2019-11,"Hyde Park Corner, Hyde Park",2721,721661,35549,7.654,0.377
+2019-12,"Hyde Park Corner, Hyde Park",2921,585492,28703,10.177,0.499
+2020-01,"Hyde Park Corner, Hyde Park",3491,702683,36653,9.524,0.497
+2020-02,"Hyde Park Corner, Hyde Park",2805,634646,32544,8.619,0.442
+2020-03,"Hyde Park Corner, Hyde Park",3021,547830,25839,11.692,0.551
+2020-04,"Hyde Park Corner, Hyde Park",2595,582788,17997,14.419,0.445
+2020-05,"Hyde Park Corner, Hyde Park",8840,1102153,45178,19.567,0.802
+2020-06,"Hyde Park Corner, Hyde Park",9520,1139072,48027,19.822,0.836
+2020-07,"Hyde Park Corner, Hyde Park",11524,1152311,56263,20.482,1.0
+2020-08,"Hyde Park Corner, Hyde Park",11768,1136433,55463,21.218,1.036
+2020-09,"Hyde Park Corner, Hyde Park",8631,1120897,47838,18.042,0.77
+2020-10,"Hyde Park Corner, Hyde Park",4492,837070,31426,14.294,0.537
+2020-11,"Hyde Park Corner, Hyde Park",5683,749763,32118,17.694,0.758
+2020-12,"Hyde Park Corner, Hyde Park",3811,581394,22732,16.765,0.655
+2021-01,"Hyde Park Corner, Hyde Park",3160,405015,16036,19.706,0.78
+2021-02,"Hyde Park Corner, Hyde Park",5022,504154,23574,21.303,0.996
+2021-03,"Hyde Park Corner, Hyde Park",7962,738522,38082,20.908,1.078
+2021-04,"Hyde Park Corner, Hyde Park",9460,930934,47786,19.797,1.016
+2021-05,"Hyde Park Corner, Hyde Park",6596,912059,39948,16.511,0.723
+2021-06,"Hyde Park Corner, Hyde Park",10374,1169603,56623,18.321,0.887
+2021-07,"Hyde Park Corner, Hyde Park",10676,1155434,55861,19.112,0.924
+2021-08,"Hyde Park Corner, Hyde Park",11521,1098972,58786,19.598,1.048
+2021-09,"Hyde Park Corner, Hyde Park",8756,1208914,55186,15.866,0.724
+2021-10,"Hyde Park Corner, Hyde Park",7092,1099712,48001,14.775,0.645
+2021-11,"Hyde Park Corner, Hyde Park",4850,936941,40491,11.978,0.518
+2021-12,"Hyde Park Corner, Hyde Park",4014,661029,28047,14.312,0.607
+2022-01,"Hyde Park Corner, Hyde Park",3857,741875,28863,13.363,0.52
+2022-02,"Hyde Park Corner, Hyde Park",4286,743581,32372,13.24,0.576
+2022-03,"Hyde Park Corner, Hyde Park",7594,1047369,51079,14.867,0.725
+2022-04,"Hyde Park Corner, Hyde Park",9117,1022467,51966,17.544,0.892
+2022-05,"Hyde Park Corner, Hyde Park",10300,1190590,57759,17.833,0.865
+2022-06,"Hyde Park Corner, Hyde Park",11527,1268701,60915,18.923,0.909
+2022-07,"Hyde Park Corner, Hyde Park",13066,1303376,65556,19.931,1.002
+2022-08,"Hyde Park Corner, Hyde Park",11523,1249038,63281,18.209,0.923
+2022-09,"Hyde Park Corner, Hyde Park",3044,609978,25171,12.093,0.499
+2022-10,"Hyde Park Corner, Hyde Park",4844,835240,32755,14.789,0.58
+2022-11,"Hyde Park Corner, Hyde Park",2689,593444,22569,11.915,0.453
+2022-12,"Hyde Park Corner, Hyde Park",1972,421860,15269,12.915,0.467
+2023-01,"Hyde Park Corner, Hyde Park",1106,233478,8039,13.758,0.474
+2015-01,"Triangle Car Park, Hyde Park",1083,547905,32453,3.337,0.198
+2015-02,"Triangle Car Park, Hyde Park",1179,544239,33259,3.545,0.217
+2015-03,"Triangle Car Park, Hyde Park",2382,696397,45116,5.28,0.342
+2015-04,"Triangle Car Park, Hyde Park",4583,832313,60082,7.628,0.551
+2015-05,"Triangle Car Park, Hyde Park",4012,895402,60294,6.654,0.448
+2015-06,"Triangle Car Park, Hyde Park",5666,1033484,72885,7.774,0.548
+2015-07,"Triangle Car Park, Hyde Park",6342,1125879,81431,7.788,0.563
+2015-08,"Triangle Car Park, Hyde Park",7068,1033933,79328,8.91,0.684
+2015-09,"Triangle Car Park, Hyde Park",3907,897193,58736,6.652,0.435
+2015-10,"Triangle Car Park, Hyde Park",2800,878841,54662,5.122,0.319
+2015-11,"Triangle Car Park, Hyde Park",1283,679551,37022,3.466,0.189
+2015-12,"Triangle Car Park, Hyde Park",1370,603673,34087,4.019,0.227
+2016-01,"Triangle Car Park, Hyde Park",1297,582492,32926,3.939,0.223
+2016-02,"Triangle Car Park, Hyde Park",1407,593695,35354,3.98,0.237
+2016-03,"Triangle Car Park, Hyde Park",2389,659448,44038,5.425,0.362
+2016-04,"Triangle Car Park, Hyde Park",3348,772640,50428,6.639,0.433
+2016-05,"Triangle Car Park, Hyde Park",5562,1001878,66895,8.315,0.555
+2016-06,"Triangle Car Park, Hyde Park",4748,951412,61030,7.78,0.499
+2016-07,"Triangle Car Park, Hyde Park",8364,1173751,79279,10.55,0.713
+2016-08,"Triangle Car Park, Hyde Park",7814,1143776,75304,10.377,0.683
+2016-09,"Triangle Car Park, Hyde Park",4460,1041676,62324,7.156,0.428
+2016-10,"Triangle Car Park, Hyde Park",3047,935948,54214,5.62,0.326
+2016-11,"Triangle Car Park, Hyde Park",1389,704335,39017,3.56,0.197
+2016-12,"Triangle Car Park, Hyde Park",1776,651858,37296,4.762,0.272
+2017-01,"Triangle Car Park, Hyde Park",1428,632433,37101,3.849,0.226
+2017-02,"Triangle Car Park, Hyde Park",1782,612282,37196,4.791,0.291
+2017-03,"Triangle Car Park, Hyde Park",3275,812873,50089,6.538,0.403
+2017-04,"Triangle Car Park, Hyde Park",6971,908348,65034,10.719,0.767
+2017-05,"Triangle Car Park, Hyde Park",5247,982816,64385,8.149,0.534
+2017-06,"Triangle Car Park, Hyde Park",5853,1094355,68877,8.498,0.535
+2017-07,"Triangle Car Park, Hyde Park",7157,1133048,75494,9.48,0.632
+2017-08,"Triangle Car Park, Hyde Park",7688,982962,62311,12.338,0.782
+2017-09,"Triangle Car Park, Hyde Park",3679,913300,53870,6.829,0.403
+2017-10,"Triangle Car Park, Hyde Park",4140,951317,54416,7.608,0.435
+2017-11,"Triangle Car Park, Hyde Park",2184,781786,42079,5.19,0.279
+2017-12,"Triangle Car Park, Hyde Park",1457,526354,28550,5.103,0.277
+2018-01,"Triangle Car Park, Hyde Park",1806,637781,36048,5.01,0.283
+2018-02,"Triangle Car Park, Hyde Park",2100,568188,33384,6.29,0.37
+2018-03,"Triangle Car Park, Hyde Park",2275,595999,35038,6.493,0.382
+2018-04,"Triangle Car Park, Hyde Park",5512,813676,54396,10.133,0.677
+2018-05,"Triangle Car Park, Hyde Park",7807,1099385,72931,10.705,0.71
+2018-06,"Triangle Car Park, Hyde Park",7525,1168667,75858,9.92,0.644
+2018-07,"Triangle Car Park, Hyde Park",7138,1239205,75447,9.461,0.576
+2018-08,"Triangle Car Park, Hyde Park",7444,1046582,68419,10.88,0.711
+2018-09,"Triangle Car Park, Hyde Park",4220,998118,57791,7.302,0.423
+2018-10,"Triangle Car Park, Hyde Park",2902,967114,53544,5.42,0.3
+2018-11,"Triangle Car Park, Hyde Park",1447,728658,38813,3.728,0.199
+2018-12,"Triangle Car Park, Hyde Park",1338,578511,29710,4.504,0.231
+2019-01,"Triangle Car Park, Hyde Park",1492,679520,35849,4.162,0.22
+2019-02,"Triangle Car Park, Hyde Park",2448,691770,40062,6.111,0.354
+2019-03,"Triangle Car Park, Hyde Park",2093,784410,43415,4.821,0.267
+2019-04,"Triangle Car Park, Hyde Park",3504,880513,53705,6.525,0.398
+2019-05,"Triangle Car Park, Hyde Park",3955,995968,57537,6.874,0.397
+2019-06,"Triangle Car Park, Hyde Park",4226,993747,59403,7.114,0.425
+2019-07,"Triangle Car Park, Hyde Park",4275,1138703,64788,6.598,0.375
+2019-08,"Triangle Car Park, Hyde Park",6956,1041301,67749,10.267,0.668
+2019-09,"Triangle Car Park, Hyde Park",3170,955206,53923,5.879,0.332
+2019-10,"Triangle Car Park, Hyde Park",1774,841772,43517,4.077,0.211
+2019-11,"Triangle Car Park, Hyde Park",1121,721661,35549,3.153,0.155
+2019-12,"Triangle Car Park, Hyde Park",1298,585492,28703,4.522,0.222
+2020-01,"Triangle Car Park, Hyde Park",1505,702683,36653,4.106,0.214
+2020-02,"Triangle Car Park, Hyde Park",1281,634646,32544,3.936,0.202
+2020-03,"Triangle Car Park, Hyde Park",1582,547830,25839,6.123,0.289
+2020-04,"Triangle Car Park, Hyde Park",2236,582788,17997,12.424,0.384
+2020-05,"Triangle Car Park, Hyde Park",6969,1102153,45178,15.426,0.632
+2020-06,"Triangle Car Park, Hyde Park",6301,1139072,48027,13.12,0.553
+2020-07,"Triangle Car Park, Hyde Park",7834,1152311,56263,13.924,0.68
+2020-08,"Triangle Car Park, Hyde Park",6984,1136433,55463,12.592,0.615
+2020-09,"Triangle Car Park, Hyde Park",4521,1120897,47838,9.451,0.403
+2020-10,"Triangle Car Park, Hyde Park",2288,837070,31426,7.281,0.273
+2020-11,"Triangle Car Park, Hyde Park",3182,749763,32118,9.907,0.424
+2020-12,"Triangle Car Park, Hyde Park",1857,581394,22732,8.169,0.319
+2021-01,"Triangle Car Park, Hyde Park",1569,405015,16036,9.784,0.387
+2021-02,"Triangle Car Park, Hyde Park",3026,504154,23574,12.836,0.6
+2021-03,"Triangle Car Park, Hyde Park",4762,738522,38082,12.505,0.645
+2021-04,"Triangle Car Park, Hyde Park",5503,930934,47786,11.516,0.591
+2021-05,"Triangle Car Park, Hyde Park",3648,912059,39948,9.132,0.4
+2021-06,"Triangle Car Park, Hyde Park",5866,1169603,56623,10.36,0.502
+2021-07,"Triangle Car Park, Hyde Park",5333,1155434,55861,9.547,0.462
+2021-08,"Triangle Car Park, Hyde Park",5722,1098972,58786,9.734,0.521
+2021-09,"Triangle Car Park, Hyde Park",3611,1208914,55186,6.543,0.299
+2021-10,"Triangle Car Park, Hyde Park",2818,1099712,48001,5.871,0.256
+2021-11,"Triangle Car Park, Hyde Park",1735,936941,40491,4.285,0.185
+2021-12,"Triangle Car Park, Hyde Park",1183,661029,28047,4.218,0.179
+2022-01,"Triangle Car Park, Hyde Park",1501,741875,28863,5.2,0.202
+2022-02,"Triangle Car Park, Hyde Park",1795,743581,32372,5.545,0.241
+2022-03,"Triangle Car Park, Hyde Park",3115,1047369,51079,6.098,0.297
+2022-04,"Triangle Car Park, Hyde Park",3384,1022467,51966,6.512,0.331
+2022-05,"Triangle Car Park, Hyde Park",4057,1190590,57759,7.024,0.341
+2022-06,"Triangle Car Park, Hyde Park",5492,1268701,60915,9.016,0.433
+2022-07,"Triangle Car Park, Hyde Park",6577,1303376,65556,10.033,0.505
+2022-08,"Triangle Car Park, Hyde Park",5663,1249038,63281,8.949,0.453
+2022-09,"Triangle Car Park, Hyde Park",1077,609978,25171,4.279,0.177
+2022-10,"Triangle Car Park, Hyde Park",1534,835240,32755,4.683,0.184
+2022-11,"Triangle Car Park, Hyde Park",769,593444,22569,3.407,0.13
+2022-12,"Triangle Car Park, Hyde Park",459,421860,15269,3.006,0.109
+2023-01,"Triangle Car Park, Hyde Park",331,233478,8039,4.117,0.142
+2015-01,"Waterloo Station 1, Waterloo",3873,547905,32453,11.934,0.707
+2015-02,"Waterloo Station 1, Waterloo",3438,544239,33259,10.337,0.632
+2015-03,"Waterloo Station 1, Waterloo",4556,696397,45116,10.098,0.654
+2015-04,"Waterloo Station 1, Waterloo",4811,832313,60082,8.007,0.578
+2015-05,"Waterloo Station 1, Waterloo",4634,895402,60294,7.686,0.518
+2015-06,"Waterloo Station 1, Waterloo",5769,1033484,72885,7.915,0.558
+2015-07,"Waterloo Station 1, Waterloo",6386,1125879,81431,7.842,0.567
+2015-08,"Waterloo Station 1, Waterloo",5116,1033933,79328,6.449,0.495
+2015-09,"Waterloo Station 1, Waterloo",5586,897193,58736,9.51,0.623
+2015-10,"Waterloo Station 1, Waterloo",5542,878841,54662,10.139,0.631
+2015-11,"Waterloo Station 1, Waterloo",5048,679551,37022,13.635,0.743
+2015-12,"Waterloo Station 1, Waterloo",3902,603673,34087,11.447,0.646
+2016-01,"Waterloo Station 1, Waterloo",4199,582492,32926,12.753,0.721
+2016-02,"Waterloo Station 1, Waterloo",4579,593695,35354,12.952,0.771
+2016-03,"Waterloo Station 1, Waterloo",5130,659448,44038,11.649,0.778
+2016-04,"Waterloo Station 1, Waterloo",4658,772640,50428,9.237,0.603
+2016-05,"Waterloo Station 1, Waterloo",4964,1001878,66895,7.421,0.495
+2016-06,"Waterloo Station 1, Waterloo",5047,951412,61030,8.27,0.53
+2016-07,"Waterloo Station 1, Waterloo",5733,1173751,79279,7.231,0.488
+2016-08,"Waterloo Station 1, Waterloo",5518,1143776,75304,7.328,0.482
+2016-09,"Waterloo Station 1, Waterloo",5809,1041676,62324,9.321,0.558
+2016-10,"Waterloo Station 1, Waterloo",5477,935948,54214,10.103,0.585
+2016-11,"Waterloo Station 1, Waterloo",4811,704335,39017,12.331,0.683
+2016-12,"Waterloo Station 1, Waterloo",4098,651858,37296,10.988,0.629
+2017-01,"Waterloo Station 1, Waterloo",5264,632433,37101,14.188,0.832
+2017-02,"Waterloo Station 1, Waterloo",4449,612282,37196,11.961,0.727
+2017-03,"Waterloo Station 1, Waterloo",5071,812873,50089,10.124,0.624
+2017-04,"Waterloo Station 1, Waterloo",4593,908348,65034,7.062,0.506
+2017-05,"Waterloo Station 1, Waterloo",5537,982816,64385,8.6,0.563
+2017-06,"Waterloo Station 1, Waterloo",6088,1094355,68877,8.839,0.556
+2017-07,"Waterloo Station 1, Waterloo",5620,1133048,75494,7.444,0.496
+2017-08,"Waterloo Station 1, Waterloo",3338,982962,62311,5.357,0.34
+2017-09,"Waterloo Station 1, Waterloo",4949,913300,53870,9.187,0.542
+2017-10,"Waterloo Station 1, Waterloo",5389,951317,54416,9.903,0.566
+2017-11,"Waterloo Station 1, Waterloo",4938,781786,42079,11.735,0.632
+2017-12,"Waterloo Station 1, Waterloo",3002,526354,28550,10.515,0.57
+2018-01,"Waterloo Station 1, Waterloo",4275,637781,36048,11.859,0.67
+2018-02,"Waterloo Station 1, Waterloo",3947,568188,33384,11.823,0.695
+2018-03,"Waterloo Station 1, Waterloo",3681,595999,35038,10.506,0.618
+2018-04,"Waterloo Station 1, Waterloo",4087,813676,54396,7.513,0.502
+2018-05,"Waterloo Station 1, Waterloo",5384,1099385,72931,7.382,0.49
+2018-06,"Waterloo Station 1, Waterloo",6050,1168667,75858,7.975,0.518
+2018-07,"Waterloo Station 1, Waterloo",6521,1239205,75447,8.643,0.526
+2018-08,"Waterloo Station 1, Waterloo",4994,1046582,68419,7.299,0.477
+2018-09,"Waterloo Station 1, Waterloo",5539,998118,57791,9.585,0.555
+2018-10,"Waterloo Station 1, Waterloo",6083,967114,53544,11.361,0.629
+2018-11,"Waterloo Station 1, Waterloo",5465,728658,38813,14.08,0.75
+2018-12,"Waterloo Station 1, Waterloo",3672,578511,29710,12.359,0.635
+2019-01,"Waterloo Station 1, Waterloo",5206,679520,35849,14.522,0.766
+2019-02,"Waterloo Station 1, Waterloo",4667,691770,40062,11.649,0.675
+2019-03,"Waterloo Station 1, Waterloo",5484,784410,43415,12.632,0.699
+2019-04,"Waterloo Station 1, Waterloo",5259,880513,53705,9.792,0.597
+2019-05,"Waterloo Station 1, Waterloo",6153,995968,57537,10.694,0.618
+2019-06,"Waterloo Station 1, Waterloo",5394,993747,59403,9.08,0.543
+2019-07,"Waterloo Station 1, Waterloo",6874,1138703,64788,10.61,0.604
+2019-08,"Waterloo Station 1, Waterloo",5594,1041301,67749,8.257,0.537
+2019-09,"Waterloo Station 1, Waterloo",6057,955206,53923,11.233,0.634
+2019-10,"Waterloo Station 1, Waterloo",6143,841772,43517,14.116,0.73
+2019-11,"Waterloo Station 1, Waterloo",5631,721661,35549,15.84,0.78
+2019-12,"Waterloo Station 1, Waterloo",3488,585492,28703,12.152,0.596
+2020-01,"Waterloo Station 1, Waterloo",5684,702683,36653,15.508,0.809
+2020-02,"Waterloo Station 1, Waterloo",4965,634646,32544,15.256,0.782
+2020-03,"Waterloo Station 1, Waterloo",3048,547830,25839,11.796,0.556
+2020-04,"Waterloo Station 1, Waterloo",417,582788,17997,2.317,0.072
+2020-05,"Waterloo Station 1, Waterloo",1253,1102153,45178,2.773,0.114
+2020-06,"Waterloo Station 1, Waterloo",1933,1139072,48027,4.025,0.17
+2020-07,"Waterloo Station 1, Waterloo",2343,1152311,56263,4.164,0.203
+2020-08,"Waterloo Station 1, Waterloo",2595,1136433,55463,4.679,0.228
+2020-09,"Waterloo Station 1, Waterloo",3258,1120897,47838,6.81,0.291
+2020-10,"Waterloo Station 1, Waterloo",2366,837070,31426,7.529,0.283
+2020-11,"Waterloo Station 1, Waterloo",1892,749763,32118,5.891,0.252
+2020-12,"Waterloo Station 1, Waterloo",1539,581394,22732,6.77,0.265
+2021-01,"Waterloo Station 1, Waterloo",702,405015,16036,4.378,0.173
+2021-02,"Waterloo Station 1, Waterloo",1029,504154,23574,4.365,0.204
+2021-03,"Waterloo Station 1, Waterloo",1975,738522,38082,5.186,0.267
+2021-04,"Waterloo Station 1, Waterloo",3136,930934,47786,6.563,0.337
+2021-05,"Waterloo Station 1, Waterloo",2836,912059,39948,7.099,0.311
+2021-06,"Waterloo Station 1, Waterloo",4102,1169603,56623,7.244,0.351
+2021-07,"Waterloo Station 1, Waterloo",3719,1155434,55861,6.658,0.322
+2021-08,"Waterloo Station 1, Waterloo",3874,1098972,58786,6.59,0.353
+2021-09,"Waterloo Station 1, Waterloo",4880,1208914,55186,8.843,0.404
+2021-10,"Waterloo Station 1, Waterloo",4476,1099712,48001,9.325,0.407
+2021-11,"Waterloo Station 1, Waterloo",4753,936941,40491,11.738,0.507
+2021-12,"Waterloo Station 1, Waterloo",2549,661029,28047,9.088,0.386
+2022-01,"Waterloo Station 1, Waterloo",2833,741875,28863,9.815,0.382
+2022-02,"Waterloo Station 1, Waterloo",3213,743581,32372,9.925,0.432
+2022-03,"Waterloo Station 1, Waterloo",4874,1047369,51079,9.542,0.465
+2022-04,"Waterloo Station 1, Waterloo",4216,1022467,51966,8.113,0.412
+2022-05,"Waterloo Station 1, Waterloo",5107,1190590,57759,8.842,0.429
+2022-06,"Waterloo Station 1, Waterloo",4781,1268701,60915,7.849,0.377
+2022-07,"Waterloo Station 1, Waterloo",5516,1303376,65556,8.414,0.423
+2022-08,"Waterloo Station 1, Waterloo",5093,1249038,63281,8.048,0.408
+2022-09,"Waterloo Station 1, Waterloo",3085,609978,25171,12.256,0.506
+2022-10,"Waterloo Station 1, Waterloo",3268,835240,32755,9.977,0.391
+2022-11,"Waterloo Station 1, Waterloo",2882,593444,22569,12.77,0.486
+2022-12,"Waterloo Station 1, Waterloo",1767,421860,15269,11.572,0.419
+2023-01,"Waterloo Station 1, Waterloo",805,233478,8039,10.014,0.345
+2015-01,"Waterloo Station 3, Waterloo",6391,547905,32453,19.693,1.166
+2015-02,"Waterloo Station 3, Waterloo",6086,544239,33259,18.299,1.118
+2015-03,"Waterloo Station 3, Waterloo",7125,696397,45116,15.793,1.023
+2015-04,"Waterloo Station 3, Waterloo",6528,832313,60082,10.865,0.784
+2015-05,"Waterloo Station 3, Waterloo",6708,895402,60294,11.125,0.749
+2015-06,"Waterloo Station 3, Waterloo",7896,1033484,72885,10.834,0.764
+2015-07,"Waterloo Station 3, Waterloo",7549,1125879,81431,9.27,0.67
+2015-08,"Waterloo Station 3, Waterloo",6538,1033933,79328,8.242,0.632
+2015-09,"Waterloo Station 3, Waterloo",7362,897193,58736,12.534,0.821
+2015-10,"Waterloo Station 3, Waterloo",7299,878841,54662,13.353,0.831
+2015-11,"Waterloo Station 3, Waterloo",6212,679551,37022,16.779,0.914
+2015-12,"Waterloo Station 3, Waterloo",5222,603673,34087,15.32,0.865
+2016-01,"Waterloo Station 3, Waterloo",5844,582492,32926,17.749,1.003
+2016-02,"Waterloo Station 3, Waterloo",6266,593695,35354,17.724,1.055
+2016-03,"Waterloo Station 3, Waterloo",6536,659448,44038,14.842,0.991
+2016-04,"Waterloo Station 3, Waterloo",6813,772640,50428,13.51,0.882
+2016-05,"Waterloo Station 3, Waterloo",7061,1001878,66895,10.555,0.705
+2016-06,"Waterloo Station 3, Waterloo",7503,951412,61030,12.294,0.789
+2016-07,"Waterloo Station 3, Waterloo",7522,1173751,79279,9.488,0.641
+2016-08,"Waterloo Station 3, Waterloo",7134,1143776,75304,9.474,0.624
+2016-09,"Waterloo Station 3, Waterloo",7368,1041676,62324,11.822,0.707
+2016-10,"Waterloo Station 3, Waterloo",7419,935948,54214,13.685,0.793
+2016-11,"Waterloo Station 3, Waterloo",7174,704335,39017,18.387,1.019
+2016-12,"Waterloo Station 3, Waterloo",5427,651858,37296,14.551,0.833
+2017-01,"Waterloo Station 3, Waterloo",6638,632433,37101,17.892,1.05
+2017-02,"Waterloo Station 3, Waterloo",6751,612282,37196,18.15,1.103
+2017-03,"Waterloo Station 3, Waterloo",7906,812873,50089,15.784,0.973
+2017-04,"Waterloo Station 3, Waterloo",6651,908348,65034,10.227,0.732
+2017-05,"Waterloo Station 3, Waterloo",7668,982816,64385,11.91,0.78
+2017-06,"Waterloo Station 3, Waterloo",7750,1094355,68877,11.252,0.708
+2017-07,"Waterloo Station 3, Waterloo",7764,1133048,75494,10.284,0.685
+2017-08,"Waterloo Station 3, Waterloo",6005,982962,62311,9.637,0.611
+2017-09,"Waterloo Station 3, Waterloo",7430,913300,53870,13.792,0.814
+2017-10,"Waterloo Station 3, Waterloo",7599,951317,54416,13.965,0.799
+2017-11,"Waterloo Station 3, Waterloo",7575,781786,42079,18.002,0.969
+2017-12,"Waterloo Station 3, Waterloo",5278,526354,28550,18.487,1.003
+2018-01,"Waterloo Station 3, Waterloo",7186,637781,36048,19.935,1.127
+2018-02,"Waterloo Station 3, Waterloo",6172,568188,33384,18.488,1.086
+2018-03,"Waterloo Station 3, Waterloo",6192,595999,35038,17.672,1.039
+2018-04,"Waterloo Station 3, Waterloo",6623,813676,54396,12.176,0.814
+2018-05,"Waterloo Station 3, Waterloo",7214,1099385,72931,9.892,0.656
+2018-06,"Waterloo Station 3, Waterloo",7036,1168667,75858,9.275,0.602
+2018-07,"Waterloo Station 3, Waterloo",7294,1239205,75447,9.668,0.589
+2018-08,"Waterloo Station 3, Waterloo",6918,1046582,68419,10.111,0.661
+2018-09,"Waterloo Station 3, Waterloo",6675,998118,57791,11.55,0.669
+2018-10,"Waterloo Station 3, Waterloo",7370,967114,53544,13.764,0.762
+2018-11,"Waterloo Station 3, Waterloo",6747,728658,38813,17.383,0.926
+2018-12,"Waterloo Station 3, Waterloo",4903,578511,29710,16.503,0.848
+2019-01,"Waterloo Station 3, Waterloo",6580,679520,35849,18.355,0.968
+2019-02,"Waterloo Station 3, Waterloo",6223,691770,40062,15.533,0.9
+2019-03,"Waterloo Station 3, Waterloo",6664,784410,43415,15.35,0.85
+2019-04,"Waterloo Station 3, Waterloo",6444,880513,53705,11.999,0.732
+2019-05,"Waterloo Station 3, Waterloo",6729,995968,57537,11.695,0.676
+2019-06,"Waterloo Station 3, Waterloo",6411,993747,59403,10.792,0.645
+2019-07,"Waterloo Station 3, Waterloo",7552,1138703,64788,11.656,0.663
+2019-08,"Waterloo Station 3, Waterloo",6735,1041301,67749,9.941,0.647
+2019-09,"Waterloo Station 3, Waterloo",6654,955206,53923,12.34,0.697
+2019-10,"Waterloo Station 3, Waterloo",7096,841772,43517,16.306,0.843
+2019-11,"Waterloo Station 3, Waterloo",6452,721661,35549,18.15,0.894
+2019-12,"Waterloo Station 3, Waterloo",4458,585492,28703,15.531,0.761
+2020-01,"Waterloo Station 3, Waterloo",6201,702683,36653,16.918,0.882
+2020-02,"Waterloo Station 3, Waterloo",5860,634646,32544,18.006,0.923
+2020-03,"Waterloo Station 3, Waterloo",3647,547830,25839,14.114,0.666
+2020-04,"Waterloo Station 3, Waterloo",252,582788,17997,1.4,0.043
+2020-05,"Waterloo Station 3, Waterloo",537,1102153,45178,1.189,0.049
+2020-06,"Waterloo Station 3, Waterloo",1196,1139072,48027,2.49,0.105
+2020-07,"Waterloo Station 3, Waterloo",1999,1152311,56263,3.553,0.173
+2020-08,"Waterloo Station 3, Waterloo",2371,1136433,55463,4.275,0.209
+2020-09,"Waterloo Station 3, Waterloo",3551,1120897,47838,7.423,0.317
+2020-10,"Waterloo Station 3, Waterloo",3003,837070,31426,9.556,0.359
+2020-11,"Waterloo Station 3, Waterloo",2008,749763,32118,6.252,0.268
+2020-12,"Waterloo Station 3, Waterloo",1756,581394,22732,7.725,0.302
+2021-01,"Waterloo Station 3, Waterloo",862,405015,16036,5.375,0.213
+2021-02,"Waterloo Station 3, Waterloo",969,504154,23574,4.11,0.192
+2021-03,"Waterloo Station 3, Waterloo",1424,738522,38082,3.739,0.193
+2021-04,"Waterloo Station 3, Waterloo",1751,930934,47786,3.664,0.188
+2021-05,"Waterloo Station 3, Waterloo",3211,912059,39948,8.038,0.352
+2021-06,"Waterloo Station 3, Waterloo",3604,1169603,56623,6.365,0.308
+2021-07,"Waterloo Station 3, Waterloo",3678,1155434,55861,6.584,0.318
+2021-08,"Waterloo Station 3, Waterloo",3344,1098972,58786,5.688,0.304
+2021-09,"Waterloo Station 3, Waterloo",4973,1208914,55186,9.011,0.411
+2021-10,"Waterloo Station 3, Waterloo",5312,1099712,48001,11.066,0.483
+2021-11,"Waterloo Station 3, Waterloo",5798,936941,40491,14.319,0.619
+2021-12,"Waterloo Station 3, Waterloo",3115,661029,28047,11.106,0.471
+2022-01,"Waterloo Station 3, Waterloo",3668,741875,28863,12.708,0.494
+2022-02,"Waterloo Station 3, Waterloo",4322,743581,32372,13.351,0.581
+2022-03,"Waterloo Station 3, Waterloo",5636,1047369,51079,11.034,0.538
+2022-04,"Waterloo Station 3, Waterloo",4184,1022467,51966,8.051,0.409
+2022-05,"Waterloo Station 3, Waterloo",5181,1190590,57759,8.97,0.435
+2022-06,"Waterloo Station 3, Waterloo",4653,1268701,60915,7.639,0.367
+2022-07,"Waterloo Station 3, Waterloo",4565,1303376,65556,6.964,0.35
+2022-08,"Waterloo Station 3, Waterloo",4174,1249038,63281,6.596,0.334
+2022-09,"Waterloo Station 3, Waterloo",3483,609978,25171,13.837,0.571
+2022-10,"Waterloo Station 3, Waterloo",3909,835240,32755,11.934,0.468
+2022-11,"Waterloo Station 3, Waterloo",3417,593444,22569,15.14,0.576
+2022-12,"Waterloo Station 3, Waterloo",1979,421860,15269,12.961,0.469
+2023-01,"Waterloo Station 3, Waterloo",1193,233478,8039,14.84,0.511
+2015-01,"Wellington Arch, Hyde Park",1542,547905,32453,4.751,0.281
+2015-02,"Wellington Arch, Hyde Park",1734,544239,33259,5.214,0.319
+2015-03,"Wellington Arch, Hyde Park",2431,696397,45116,5.388,0.349
+2015-04,"Wellington Arch, Hyde Park",3884,832313,60082,6.464,0.467
+2015-05,"Wellington Arch, Hyde Park",4419,895402,60294,7.329,0.494
+2015-06,"Wellington Arch, Hyde Park",4910,1033484,72885,6.737,0.475
+2015-07,"Wellington Arch, Hyde Park",5816,1125879,81431,7.142,0.517
+2015-08,"Wellington Arch, Hyde Park",6386,1033933,79328,8.05,0.618
+2015-09,"Wellington Arch, Hyde Park",4117,897193,58736,7.009,0.459
+2015-10,"Wellington Arch, Hyde Park",3847,878841,54662,7.038,0.438
+2015-11,"Wellington Arch, Hyde Park",2034,679551,37022,5.494,0.299
+2015-12,"Wellington Arch, Hyde Park",2411,603673,34087,7.073,0.399
+2016-01,"Wellington Arch, Hyde Park",1569,582492,32926,4.765,0.269
+2016-02,"Wellington Arch, Hyde Park",1820,593695,35354,5.148,0.307
+2016-03,"Wellington Arch, Hyde Park",2647,659448,44038,6.011,0.401
+2016-04,"Wellington Arch, Hyde Park",2864,772640,50428,5.679,0.371
+2016-05,"Wellington Arch, Hyde Park",4855,1001878,66895,7.258,0.485
+2016-06,"Wellington Arch, Hyde Park",4782,951412,61030,7.835,0.503
+2016-07,"Wellington Arch, Hyde Park",7712,1173751,79279,9.728,0.657
+2016-08,"Wellington Arch, Hyde Park",7287,1143776,75304,9.677,0.637
+2016-09,"Wellington Arch, Hyde Park",4684,1041676,62324,7.516,0.45
+2016-10,"Wellington Arch, Hyde Park",4279,935948,54214,7.893,0.457
+2016-11,"Wellington Arch, Hyde Park",2304,704335,39017,5.905,0.327
+2016-12,"Wellington Arch, Hyde Park",2890,651858,37296,7.749,0.443
+2017-01,"Wellington Arch, Hyde Park",2118,632433,37101,5.709,0.335
+2017-02,"Wellington Arch, Hyde Park",2019,612282,37196,5.428,0.33
+2017-03,"Wellington Arch, Hyde Park",3264,812873,50089,6.516,0.402
+2017-04,"Wellington Arch, Hyde Park",5002,908348,65034,7.691,0.551
+2017-05,"Wellington Arch, Hyde Park",4441,982816,64385,6.898,0.452
+2017-06,"Wellington Arch, Hyde Park",5552,1094355,68877,8.061,0.507
+2017-07,"Wellington Arch, Hyde Park",6116,1133048,75494,8.101,0.54
+2017-08,"Wellington Arch, Hyde Park",4965,982962,62311,7.968,0.505
+2017-09,"Wellington Arch, Hyde Park",3588,913300,53870,6.66,0.393
+2017-10,"Wellington Arch, Hyde Park",3625,951317,54416,6.662,0.381
+2017-11,"Wellington Arch, Hyde Park",2439,781786,42079,5.796,0.312
+2017-12,"Wellington Arch, Hyde Park",1703,526354,28550,5.965,0.324
+2018-01,"Wellington Arch, Hyde Park",1792,637781,36048,4.971,0.281
+2018-02,"Wellington Arch, Hyde Park",1832,568188,33384,5.488,0.322
+2018-03,"Wellington Arch, Hyde Park",2019,595999,35038,5.762,0.339
+2018-04,"Wellington Arch, Hyde Park",4227,813676,54396,7.771,0.519
+2018-05,"Wellington Arch, Hyde Park",5455,1099385,72931,7.48,0.496
+2018-06,"Wellington Arch, Hyde Park",5817,1168667,75858,7.668,0.498
+2018-07,"Wellington Arch, Hyde Park",7556,1239205,75447,10.015,0.61
+2018-08,"Wellington Arch, Hyde Park",5705,1046582,68419,8.338,0.545
+2018-09,"Wellington Arch, Hyde Park",4734,998118,57791,8.192,0.474
+2018-10,"Wellington Arch, Hyde Park",3764,967114,53544,7.03,0.389
+2018-11,"Wellington Arch, Hyde Park",2105,728658,38813,5.423,0.289
+2018-12,"Wellington Arch, Hyde Park",939,578511,29710,3.161,0.162
+2019-01,"Wellington Arch, Hyde Park",1872,679520,35849,5.222,0.275
+2019-02,"Wellington Arch, Hyde Park",2952,691770,40062,7.369,0.427
+2019-03,"Wellington Arch, Hyde Park",2910,784410,43415,6.703,0.371
+2019-04,"Wellington Arch, Hyde Park",3752,880513,53705,6.986,0.426
+2019-05,"Wellington Arch, Hyde Park",3881,995968,57537,6.745,0.39
+2019-06,"Wellington Arch, Hyde Park",4976,993747,59403,8.377,0.501
+2019-07,"Wellington Arch, Hyde Park",6879,1138703,64788,10.618,0.604
+2019-08,"Wellington Arch, Hyde Park",6506,1041301,67749,9.603,0.625
+2019-09,"Wellington Arch, Hyde Park",4440,955206,53923,8.234,0.465
+2019-10,"Wellington Arch, Hyde Park",3195,841772,43517,7.342,0.38
+2019-11,"Wellington Arch, Hyde Park",2276,721661,35549,6.402,0.315
+2019-12,"Wellington Arch, Hyde Park",2465,585492,28703,8.588,0.421
+2020-01,"Wellington Arch, Hyde Park",2488,702683,36653,6.788,0.354
+2020-02,"Wellington Arch, Hyde Park",2164,634646,32544,6.649,0.341
+2020-03,"Wellington Arch, Hyde Park",2135,547830,25839,8.263,0.39
+2020-04,"Wellington Arch, Hyde Park",3946,582788,17997,21.926,0.677
+2020-05,"Wellington Arch, Hyde Park",7315,1102153,45178,16.192,0.664
+2020-06,"Wellington Arch, Hyde Park",6957,1139072,48027,14.486,0.611
+2020-07,"Wellington Arch, Hyde Park",7119,1152311,56263,12.653,0.618
+2020-08,"Wellington Arch, Hyde Park",7135,1136433,55463,12.864,0.628
+2020-09,"Wellington Arch, Hyde Park",5483,1120897,47838,11.462,0.489
+2020-10,"Wellington Arch, Hyde Park",3550,837070,31426,11.296,0.424
+2020-11,"Wellington Arch, Hyde Park",4748,749763,32118,14.783,0.633
+2020-12,"Wellington Arch, Hyde Park",3042,581394,22732,13.382,0.523
+2021-01,"Wellington Arch, Hyde Park",2408,405015,16036,15.016,0.595
+2021-02,"Wellington Arch, Hyde Park",2974,504154,23574,12.616,0.59
+2021-03,"Wellington Arch, Hyde Park",5580,738522,38082,14.653,0.756
+2021-04,"Wellington Arch, Hyde Park",7242,930934,47786,15.155,0.778
+2021-05,"Wellington Arch, Hyde Park",4868,912059,39948,12.186,0.534
+2021-06,"Wellington Arch, Hyde Park",6923,1169603,56623,12.226,0.592
+2021-07,"Wellington Arch, Hyde Park",6497,1155434,55861,11.631,0.562
+2021-08,"Wellington Arch, Hyde Park",6740,1098972,58786,11.465,0.613
+2021-09,"Wellington Arch, Hyde Park",5969,1208914,55186,10.816,0.494
+2021-10,"Wellington Arch, Hyde Park",4943,1099712,48001,10.298,0.449
+2021-11,"Wellington Arch, Hyde Park",3872,936941,40491,9.563,0.413
+2021-12,"Wellington Arch, Hyde Park",3267,661029,28047,11.648,0.494
+2022-01,"Wellington Arch, Hyde Park",2761,741875,28863,9.566,0.372
+2022-02,"Wellington Arch, Hyde Park",3244,743581,32372,10.021,0.436
+2022-03,"Wellington Arch, Hyde Park",4942,1047369,51079,9.675,0.472
+2022-04,"Wellington Arch, Hyde Park",5927,1022467,51966,11.406,0.58
+2022-05,"Wellington Arch, Hyde Park",4746,1190590,57759,8.217,0.399
+2022-06,"Wellington Arch, Hyde Park",5809,1268701,60915,9.536,0.458
+2022-07,"Wellington Arch, Hyde Park",6949,1303376,65556,10.6,0.533
+2022-08,"Wellington Arch, Hyde Park",5908,1249038,63281,9.336,0.473
+2022-09,"Wellington Arch, Hyde Park",1983,609978,25171,7.878,0.325
+2022-10,"Wellington Arch, Hyde Park",2410,835240,32755,7.358,0.289
+2022-11,"Wellington Arch, Hyde Park",1356,593444,22569,6.008,0.228
+2022-12,"Wellington Arch, Hyde Park",1076,421860,15269,7.047,0.255
+2023-01,"Wellington Arch, Hyde Park",308,233478,8039,3.831,0.132
+2015-01,"Wormwood Street, Liverpool Street",3425,547905,32453,10.554,0.625
+2015-02,"Wormwood Street, Liverpool Street",3365,544239,33259,10.118,0.618
+2015-03,"Wormwood Street, Liverpool Street",3947,696397,45116,8.749,0.567
+2015-04,"Wormwood Street, Liverpool Street",4428,832313,60082,7.37,0.532
+2015-05,"Wormwood Street, Liverpool Street",4299,895402,60294,7.13,0.48
+2015-06,"Wormwood Street, Liverpool Street",5187,1033484,72885,7.117,0.502
+2015-07,"Wormwood Street, Liverpool Street",5961,1125879,81431,7.32,0.529
+2015-08,"Wormwood Street, Liverpool Street",5134,1033933,79328,6.472,0.497
+2015-09,"Wormwood Street, Liverpool Street",4769,897193,58736,8.119,0.532
+2015-10,"Wormwood Street, Liverpool Street",4317,878841,54662,7.898,0.491
+2015-11,"Wormwood Street, Liverpool Street",3764,679551,37022,10.167,0.554
+2015-12,"Wormwood Street, Liverpool Street",3142,603673,34087,9.218,0.52
+2016-01,"Wormwood Street, Liverpool Street",3447,582492,32926,10.469,0.592
+2016-02,"Wormwood Street, Liverpool Street",3385,593695,35354,9.575,0.57
+2016-03,"Wormwood Street, Liverpool Street",3477,659448,44038,7.895,0.527
+2016-04,"Wormwood Street, Liverpool Street",3635,772640,50428,7.208,0.47
+2016-05,"Wormwood Street, Liverpool Street",4389,1001878,66895,6.561,0.438
+2016-06,"Wormwood Street, Liverpool Street",4219,951412,61030,6.913,0.443
+2016-07,"Wormwood Street, Liverpool Street",4765,1173751,79279,6.01,0.406
+2016-08,"Wormwood Street, Liverpool Street",4704,1143776,75304,6.247,0.411
+2016-09,"Wormwood Street, Liverpool Street",4731,1041676,62324,7.591,0.454
+2016-10,"Wormwood Street, Liverpool Street",4461,935948,54214,8.229,0.477
+2016-11,"Wormwood Street, Liverpool Street",3921,704335,39017,10.049,0.557
+2016-12,"Wormwood Street, Liverpool Street",3055,651858,37296,8.191,0.469
+2017-01,"Wormwood Street, Liverpool Street",3363,632433,37101,9.064,0.532
+2017-02,"Wormwood Street, Liverpool Street",3105,612282,37196,8.348,0.507
+2017-03,"Wormwood Street, Liverpool Street",3874,812873,50089,7.734,0.477
+2017-04,"Wormwood Street, Liverpool Street",3381,908348,65034,5.199,0.372
+2017-05,"Wormwood Street, Liverpool Street",4061,982816,64385,6.307,0.413
+2017-06,"Wormwood Street, Liverpool Street",4421,1094355,68877,6.419,0.404
+2017-07,"Wormwood Street, Liverpool Street",4509,1133048,75494,5.973,0.398
+2017-08,"Wormwood Street, Liverpool Street",3704,982962,62311,5.944,0.377
+2017-09,"Wormwood Street, Liverpool Street",3942,913300,53870,7.318,0.432
+2017-10,"Wormwood Street, Liverpool Street",4184,951317,54416,7.689,0.44
+2017-11,"Wormwood Street, Liverpool Street",3695,781786,42079,8.781,0.473
+2017-12,"Wormwood Street, Liverpool Street",2229,526354,28550,7.807,0.423
+2018-01,"Wormwood Street, Liverpool Street",3171,637781,36048,8.797,0.497
+2018-02,"Wormwood Street, Liverpool Street",2644,568188,33384,7.92,0.465
+2018-03,"Wormwood Street, Liverpool Street",2732,595999,35038,7.797,0.458
+2018-04,"Wormwood Street, Liverpool Street",3339,813676,54396,6.138,0.41
+2018-05,"Wormwood Street, Liverpool Street",4195,1099385,72931,5.752,0.382
+2018-06,"Wormwood Street, Liverpool Street",4473,1168667,75858,5.897,0.383
+2018-07,"Wormwood Street, Liverpool Street",4826,1239205,75447,6.397,0.389
+2018-08,"Wormwood Street, Liverpool Street",4050,1046582,68419,5.919,0.387
+2018-09,"Wormwood Street, Liverpool Street",4173,998118,57791,7.221,0.418
+2018-10,"Wormwood Street, Liverpool Street",4402,967114,53544,8.221,0.455
+2018-11,"Wormwood Street, Liverpool Street",3632,728658,38813,9.358,0.498
+2018-12,"Wormwood Street, Liverpool Street",2334,578511,29710,7.856,0.403
+2019-01,"Wormwood Street, Liverpool Street",3455,679520,35849,9.638,0.508
+2019-02,"Wormwood Street, Liverpool Street",3182,691770,40062,7.943,0.46
+2019-03,"Wormwood Street, Liverpool Street",3572,784410,43415,8.228,0.455
+2019-04,"Wormwood Street, Liverpool Street",3792,880513,53705,7.061,0.431
+2019-05,"Wormwood Street, Liverpool Street",4239,995968,57537,7.367,0.426
+2019-06,"Wormwood Street, Liverpool Street",3917,993747,59403,6.594,0.394
+2019-07,"Wormwood Street, Liverpool Street",4779,1138703,64788,7.376,0.42
+2019-08,"Wormwood Street, Liverpool Street",3951,1041301,67749,5.832,0.379
+2019-09,"Wormwood Street, Liverpool Street",4337,955206,53923,8.043,0.454
+2019-10,"Wormwood Street, Liverpool Street",4160,841772,43517,9.559,0.494
+2019-11,"Wormwood Street, Liverpool Street",3546,721661,35549,9.975,0.491
+2019-12,"Wormwood Street, Liverpool Street",2558,585492,28703,8.912,0.437
+2020-01,"Wormwood Street, Liverpool Street",3498,702683,36653,9.544,0.498
+2020-02,"Wormwood Street, Liverpool Street",3221,634646,32544,9.897,0.508
+2020-03,"Wormwood Street, Liverpool Street",2070,547830,25839,8.011,0.378
+2020-04,"Wormwood Street, Liverpool Street",802,582788,17997,4.456,0.138
+2020-05,"Wormwood Street, Liverpool Street",1581,1102153,45178,3.499,0.143
+2020-06,"Wormwood Street, Liverpool Street",2686,1139072,48027,5.593,0.236
+2020-07,"Wormwood Street, Liverpool Street",3164,1152311,56263,5.624,0.275
+2020-08,"Wormwood Street, Liverpool Street",3345,1136433,55463,6.031,0.294
+2020-09,"Wormwood Street, Liverpool Street",3674,1120897,47838,7.68,0.328
+2020-10,"Wormwood Street, Liverpool Street",2919,837070,31426,9.288,0.349
+2020-11,"Wormwood Street, Liverpool Street",2140,749763,32118,6.663,0.285
+2020-12,"Wormwood Street, Liverpool Street",1680,581394,22732,7.39,0.289
+2021-01,"Wormwood Street, Liverpool Street",1143,405015,16036,7.128,0.282
+2021-02,"Wormwood Street, Liverpool Street",1317,504154,23574,5.587,0.261
+2021-03,"Wormwood Street, Liverpool Street",2158,738522,38082,5.667,0.292
+2021-04,"Wormwood Street, Liverpool Street",2779,930934,47786,5.816,0.299
+2021-05,"Wormwood Street, Liverpool Street",3083,912059,39948,7.718,0.338
+2021-06,"Wormwood Street, Liverpool Street",4060,1169603,56623,7.17,0.347
+2021-07,"Wormwood Street, Liverpool Street",4329,1155434,55861,7.75,0.375
+2021-08,"Wormwood Street, Liverpool Street",4706,1098972,58786,8.005,0.428
+2021-09,"Wormwood Street, Liverpool Street",5358,1208914,55186,9.709,0.443
+2021-10,"Wormwood Street, Liverpool Street",4581,1099712,48001,9.544,0.417
+2021-11,"Wormwood Street, Liverpool Street",4719,936941,40491,11.654,0.504
+2021-12,"Wormwood Street, Liverpool Street",2857,661029,28047,10.186,0.432
+2022-01,"Wormwood Street, Liverpool Street",3279,741875,28863,11.361,0.442
+2022-02,"Wormwood Street, Liverpool Street",3678,743581,32372,11.362,0.495
+2022-03,"Wormwood Street, Liverpool Street",5390,1047369,51079,10.552,0.515
+2022-04,"Wormwood Street, Liverpool Street",4349,1022467,51966,8.369,0.425
+2022-05,"Wormwood Street, Liverpool Street",4943,1190590,57759,8.558,0.415
+2022-06,"Wormwood Street, Liverpool Street",4731,1268701,60915,7.767,0.373
+2022-07,"Wormwood Street, Liverpool Street",4957,1303376,65556,7.561,0.38
+2022-08,"Wormwood Street, Liverpool Street",5128,1249038,63281,8.104,0.411
+2022-09,"Wormwood Street, Liverpool Street",3139,609978,25171,12.471,0.515
+2022-10,"Wormwood Street, Liverpool Street",3523,835240,32755,10.756,0.422
+2022-11,"Wormwood Street, Liverpool Street",2830,593444,22569,12.539,0.477
+2022-12,"Wormwood Street, Liverpool Street",1982,421860,15269,12.981,0.47
+2023-01,"Wormwood Street, Liverpool Street",1010,233478,8039,12.564,0.433
